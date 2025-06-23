@@ -1,2 +1,1 @@
-# SamsungCustom-ROMs
-Simple custom ROMs for samsung smartphones
+# Tools and Utilities to android samsung smartphones and others
